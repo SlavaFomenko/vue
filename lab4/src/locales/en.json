@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "profile": "Profile",
+    "cart": "Cart",
+    "products": "Products"
+  },
+  "profile": {
+    "title": "User Profile",
+    "name": "Name",
+    "email": "Email",
+    "dateOfBirth": "Date of Birth",
+    "address": "Address",
+    "phones": "Phone Numbers",
+    "addPhone": "Add Phone",
+    "submit": "Save",
+    "reset": "Reset",
+    "success": "Profile saved successfully!",
+    "serverError": "Server error"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Cart is empty",
+    "total": "Total",
+    "count": "Items count",
+    "clear": "Clear cart",
+    "remove": "Remove",
+    "currency": "UAH"
+  },
+  "products": {
+    "title": "Products",
+    "addToCart": "Add to Cart",
+    "price": "Price",
+    "added": "Added to cart"
+  },
+  "validation": {
+    "required": "{field} is required",
+    "email": "Invalid email format",
+    "minLength": "{field} must be at least {length} characters",
+    "phone": "Invalid phone format (must be +380XXXXXXXXX)",
+    "date": "Invalid date format",
+    "minAge": "Must be at least 18 years old"
+  }
+}
